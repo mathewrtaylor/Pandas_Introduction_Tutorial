@@ -1,5 +1,8 @@
 # Pandas_Introduction_Tutorial
-An Introduction to using Pandas
+An Introduction to using Pandas.  Intended to give give some basic usage with pandas, and reading from CSV and xlsx files. 
+
+Data for the Putting it all together is sourced from https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/42MVDX&version=6.0
+Converted to an xlsx and tabbed by decade
 
 ## Installation
 
